@@ -1,4 +1,5 @@
-# express-docker
+![Node.js CI](https://github.com/hammadkhokhar/express-docker/workflows/Node.js%20CI/badge.svg)
+# express-docker  
 NodeJS Express app for docker which can be used in AWS fargate.
 
 ---
