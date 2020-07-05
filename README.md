@@ -1,4 +1,6 @@
-![Node.js CI](https://github.com/hammadkhokhar/express-docker/workflows/Node.js%20CI/badge.svg) [![Maintainability](https://api.codeclimate.com/v1/badges/055992c8756b80cdf19c/maintainability)](https://codeclimate.com/github/hammadkhokhar/express-docker/maintainability)
+![Node.js CI](https://github.com/hammadkhokhar/express-docker/workflows/Node.js%20CI/badge.svg) [![Maintainability](https://api.codeclimate.com/v1/badges/055992c8756b80cdf19c/maintainability)](https://codeclimate.com/github/hammadkhokhar/express-docker/maintainability) [![Discord](https://img.shields.io/discord/729297013329494107.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/vVxAmp2) 
+[![Test Coverage](https://api.codeclimate.com/v1/badges/055992c8756b80cdf19c/test_coverage)](https://codeclimate.com/github/hammadkhokhar/express-docker/test_coverage)
+
 # express-docker  
 NodeJS Express app for docker which can be used in AWS fargate.
 
