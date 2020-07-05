@@ -1,4 +1,4 @@
-![Node.js CI](https://github.com/hammadkhokhar/express-docker/workflows/Node.js%20CI/badge.svg)
+![Node.js CI](https://github.com/hammadkhokhar/express-docker/workflows/Node.js%20CI/badge.svg) [![Maintainability](https://api.codeclimate.com/v1/badges/055992c8756b80cdf19c/maintainability)](https://codeclimate.com/github/hammadkhokhar/express-docker/maintainability)
 # express-docker  
 NodeJS Express app for docker which can be used in AWS fargate.
 
