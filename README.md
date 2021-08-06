@@ -2,7 +2,7 @@
 [![Test Coverage](https://api.codeclimate.com/v1/badges/055992c8756b80cdf19c/test_coverage)](https://codeclimate.com/github/hammadkhokhar/express-docker/test_coverage)
 
 # express-docker  
-NodeJS Express app for docker which can be used in AWS fargate.
+NodeJS Express app for docker which can be used in AWS fargate. (Please npm audit to check any vulnerabilities)
 
 ---
 ## Requirements
